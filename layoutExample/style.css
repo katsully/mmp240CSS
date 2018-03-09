@@ -1,0 +1,25 @@
+#header {
+	background-color: lightgrey;
+	text-align: center;
+}
+
+#menu {
+	background-color: lightblue;
+}
+
+a {
+	text-decoration: none;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+a:hover {
+	background-color: lightgrey;
+	color: black;
+}
+
+.column {
+	float: left;
+	width: 30%;
+	padding: 15px;
+}
